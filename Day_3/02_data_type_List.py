@@ -1,4 +1,4 @@
-# List is a collection of items which are ordered and changeable. Allows duplicate members.
+# List is a collection of items which are ordered and changeable (Mutable). Allows duplicate members.
 
 value = [1, 2.5,"Ohreems", True, 1, 2.5,"Ohreems", True]
 print(value)
