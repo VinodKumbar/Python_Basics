@@ -35,5 +35,9 @@ print(value)  # [3.14, 2.5, 'Ohreems', 'Automation-Shop', True]
 
 
 
+### Git Notes
+
+
+
 
 
