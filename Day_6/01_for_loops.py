@@ -55,3 +55,33 @@ for i in range(5,11):    # 11-1 = 10
    print(i,  (i * 5))
 
    print( str (i) +  " Multiplied by 5 is " + str(i * 5) )
+
+print("************************************************")
+
+obj = [1,2,3,4,5]
+for i in obj:
+    print("Values of object are : " + str(i))
+
+# Sum of first 10 Natural Numbers
+print("*******  Sum of first 10 Natural Numbers  *****************************************")
+
+total = 0
+for j in range (1,11):
+    total = total + j
+   # print(total)
+   # print ("Sum of first 10 Natural number is : " , total)
+    print("Sum of first 10 Natural number is : " + str(total))
+
+
+# Print number from 1 to 10 with step of 3
+
+for k in range (1,11,3):
+    print(k)
+   # print ("Number from 1 to 10 with step of 2")
+
+#Print Number from 0 to 9
+
+for z in range (10):
+    print(z)
+
+
