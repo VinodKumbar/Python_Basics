@@ -44,5 +44,5 @@ while True:
 print("After reading the file, the file pointer is at position: " , file.seek(0))
 file.close()
 
-#Assignment
+#Assignment number 2nd
 # Print line by line using readlines() method, get into list and print each line using a for loop

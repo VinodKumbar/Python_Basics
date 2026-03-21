@@ -38,7 +38,7 @@ obj.name()
 # We have created an object of the Calculator class and called each method with different arguments to perform the corresponding arithmetic operations.
 # The divide method also includes error handling for division by zero.
 
-# Print in the console
+# Print in the console 1st assignment
 
 print("Addition of 1 and 2 is : " + str(obj.add(1,2)))
 print("Subtraction of 3 and 4 is : " + str(obj.subtract(3,4)))
